@@ -2,11 +2,11 @@
 
 **Solar System Calculator** 
 
+![Screenshot 2024-11-06 150526](https://github.com/user-attachments/assets/e33ebaaf-d493-4e17-acd9-0c62346937cd)
 
 
 ![Screenshot 2024-11-06 141011](https://github.com/user-attachments/assets/3dd8a435-b867-4b60-b537-e3e8203267a7)
 
-![Screenshot 2024-11-06 150526](https://github.com/user-attachments/assets/e33ebaaf-d493-4e17-acd9-0c62346937cd)
 
 is an all-in-one tool that empowers users to design and optimize their solar energy systems with ease. This advanced software not only helps calculate key parameters of the solar setup
 but also takes into account location-specific factors to provide accurate energy production estimates.
